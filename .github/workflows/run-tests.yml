@@ -3,7 +3,7 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - session-1
+      - ft-testing
       - session-2
   pull_request:
     branches:
